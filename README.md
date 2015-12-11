@@ -1,4 +1,3 @@
-# wavingintensifies
+# name
 
-
-perhaps that's a name?
+readme description  
